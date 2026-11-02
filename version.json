@@ -1,9 +1,9 @@
 {
-    "latest":  "1.1.0",
-    "file":  "manju-1.1.0.zip",
-    "url":  "https://github.com/jiege68/mj-jg-68f/releases/download/v1.1.0/manju-1.1.0.zip",
-    "notes":  "新增卡密激活与半自动更新",
-    "sha256":  "04691e25fe1fd077a77226e3a363b313201a6e7d5f4a2cd4768d0f4b677f416d",
-    "builtAt":  "2026-11-02 08:58:47",
+    "latest":  "1.1.1",
+    "file":  "manju-1.1.1.zip",
+    "url":  "https://github.com/jiege68/mj-jg-68f/releases/download/v1.1.1/manju-1.1.1.zip",
+    "notes":  "沧元聚合接口地址预置：买家只需粘贴自己的API Key，无需手填地址",
+    "sha256":  "ab80c4bcc88da39f534d7154c25abb2db9607d47a8c8c37dc4abb4b7ca3bd4c2",
+    "builtAt":  "2026-11-02 12:11:57",
     "zipMB":  131.9
 }
